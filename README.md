@@ -14,8 +14,8 @@ The goal of this course is to introduce methods for developing high-quality soft
 ## Course Project
 
 1. Developing a Metro Navigation System with a Focus on Modular Design and the Single Responsibility Principle
-* **2:** Applying Recursive Techniques and Backtracking for Algorithgmic Problem Solving
-* **3:** Applying Top-Down Design and Object-Oriented Principles to Implement a Patient Scheduling System
-* **4:** Applying Fundamental Object-Oriented Design (OOD) Principles to Model an E-Banking System
-* **5:** Designing an Extensible Image Filtering Framework using Inheritance and Polymorphism
-* **6:** Capstone Project: Full-Stack Design and Implementation of an Object-Oriented Music Sharing Platform
+2. Applying Recursive Techniques and Backtracking for Algorithgmic Problem Solving
+3. Applying Top-Down Design and Object-Oriented Principles to Implement a Patient Scheduling System
+4. Applying Fundamental Object-Oriented Design (OOD) Principles to Model an E-Banking System
+5. Designing an Extensible Image Filtering Framework using Inheritance and Polymorphism
+6. Capstone Project: Full-Stack Design and Implementation of an Object-Oriented Music Sharing Platform
