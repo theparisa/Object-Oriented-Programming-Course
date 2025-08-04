@@ -17,7 +17,7 @@ Of course. Here is the consolidated list of project purposes formatted as reques
 
 ### Object-Oriented Programming Projects
 
-* **1:** Developing a Metro Navigation System with a Focus on Modular Design and the Single Responsibility Principle
+* 1: Developing a Metro Navigation System with a Focus on Modular Design and the Single Responsibility Principle
 * **2:** Applying Recursive Techniques and Backtracking for Algorithgmic Problem Solving
 * **3:** Applying Top-Down Design and Object-Oriented Principles to Implement a Patient Scheduling System
 * **4:** Applying Fundamental Object-Oriented Design (OOD) Principles to Model an E-Banking System
